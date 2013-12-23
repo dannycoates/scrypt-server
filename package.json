@@ -1,0 +1,23 @@
+{
+  "name": "scrypt-server",
+  "version": "1.0.0",
+  "description": "scrypt for teh web",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dannycoates/scrypt-server.git"
+  },
+  "dependencies": {
+    "scrypt-hash": "1.1.6",
+    "restify": "2.6.1"
+  },
+  "author": "Danny Coates",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/dannycoates/scrypt-server/issues"
+  },
+  "homepage": "https://github.com/dannycoates/scrypt-server"
+}
